@@ -1,0 +1,27 @@
+_repo: A-Short-History-of-Monks-and-Monasteries_13206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wishart, Alfred Wesley
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '4908'
+    url: http://www.gutenberg.org/2009/agents/4908
+description: ''
+gutenberg_issued: '2004-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monasteries -- History'
+- !lcsh 'Monasticism and religious orders -- History'
+- !lcc 'BX'
+title: A Short History of Monks and Monasteries
+url: http://www.gutenberg.org/ebooks/13206
